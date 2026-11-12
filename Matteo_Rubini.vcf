@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rubini;Matteo;;;
+FN:Matteo Rubini
+ORG:Swiss Cobotics Competence Center (S3C)
+TITLE:Robotics Intern
+EMAIL;TYPE=INTERNET,WORK:matteo.rubini@s3c.swiss
+TEL;TYPE=CELL:+393451523704
+URL;TYPE=WORK:https://s3c.swiss/
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/rubinim/
+NOTE:MSc Robotics\, Systems and Control - ETH Zurich
+END:VCARD
